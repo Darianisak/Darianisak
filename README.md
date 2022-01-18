@@ -1,7 +1,7 @@
 Hey folks, I'm Darian!
 
-- I'm a third year <strong>Computer Science and Graphics</strong> student at <strong>Victoria University Of Wellington</strong>, graduating 2023.
-- Development wise, I love working on projects that enhance accesibility and useability, such as my Xbox Remote Script project.
+- I'm a third-year <strong>Computer Science and Graphics</strong> student at <strong>Victoria University Of Wellington</strong>, graduating 2023.
+- Development wise, I love working on projects that enhance accessibility and useability, such as my Xbox Remote Script project.
 - Beyond programming, I enjoy woodwork, gardening, photography, and design, with some of my work viewable at my Behance: 
   <strong>https://www.behance.net/darianculver</strong>
 - Likewise, I can be found on LinkedIn at: <br><strong>https://www.linkedin.com/in/darianisak/</strong>
